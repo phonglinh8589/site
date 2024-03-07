@@ -6,7 +6,7 @@
     "styleBtnContainer": { "position": "relative" },
     "styleBtnContainerWrapper": {
       "position": "absolute",
-      "right": -70,
+      "right": 8,
       "bottom": 60,
       "zIndex": 999999999
     }
