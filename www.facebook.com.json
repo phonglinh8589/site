@@ -1,7 +1,7 @@
 {
     "querySelector": {
       "data": "a[href*='watch/?v=']",
-      "parentLevel": 0
+      "parentLevel": 7
     },
     "styleBtnContainer": { "position": "relative" },
     "styleBtnContainerWrapper": {
