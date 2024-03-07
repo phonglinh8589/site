@@ -1,0 +1,14 @@
+{
+    "querySelector": {
+      "data": "a[href*='watch/?v=']",
+      "parentLevel": 0
+    },
+    "styleBtnContainer": { "position": "relative" },
+    "styleBtnContainerWrapper": {
+      "position": "absolute",
+      "right": -70,
+      "bottom": 60,
+      "zIndex": 999999999
+    }
+  }
+  
