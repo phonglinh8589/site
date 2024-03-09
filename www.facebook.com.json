@@ -1,7 +1,7 @@
 {
     "querySelector": {
       "data": "#watch_feed > div > div > div > div > div > div > div > div > div > div:nth-child(2)",
-      "parentLevel": 7
+      "parentLevel": 0
     },
     "styleBtnContainer": { "position": "relative" },
     "styleBtnContainerWrapper": {
