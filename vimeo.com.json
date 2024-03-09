@@ -1,0 +1,14 @@
+{
+    "querySelector": {
+      "data": "#main > div > div > div > div > div > div.player_outro_area > div",
+      "parentLevel": 0
+    },
+    "styleBtnContainer": { "position": "relative" },
+    "styleBtnContainerWrapper": {
+      "position": "absolute",
+      "right": 8,
+      "bottom": 60,
+      "zIndex": 999999999
+    }
+  }
+  
