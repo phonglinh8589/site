@@ -9,5 +9,6 @@
     "right": 8,
     "bottom": 60,
     "zIndex": 999999999
-  }
+  },
+  "repeatGenerateURL": true
 }
