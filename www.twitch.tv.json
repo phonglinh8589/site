@@ -1,0 +1,14 @@
+{
+    "querySelector": {
+      "data": "body > div.ReactModalPortal > div > div > div > div > div > div.clips-view-modal-navigation > div.clips-view-modal-content > div > div > div.video-player > div > div.video-ref",
+      "parentLevel": 0
+    },
+    "styleBtnContainer": { "position": "relative" },
+    "styleBtnContainerWrapper": {
+      "position": "absolute",
+      "right": 8,
+      "bottom": 60,
+      "zIndex": 999999999
+    }
+  }
+  
