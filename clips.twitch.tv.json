@@ -1,0 +1,13 @@
+{
+  "querySelector": {
+    "data": "#root > div > div > div > div.simplebar-scroll-content > div > div > main > div > div > div > div > div > div > div > div > div > div.video-player > div > div.video-ref",
+    "parentLevel": 0
+  },
+  "styleBtnContainer": { "position": "relative" },
+  "styleBtnContainerWrapper": {
+    "position": "absolute",
+    "right": 8,
+    "bottom": 70,
+    "zIndex": 999999999
+  }
+}
