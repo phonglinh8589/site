@@ -1,0 +1,14 @@
+{
+    "querySelector": {
+      "data": "#__next > main > div > div > div > div > div > div > div > div > div",
+      "parentLevel": 0
+    },
+    "styleBtnContainer": { "position": "relative" },
+    "styleBtnContainerWrapper": {
+      "position": "absolute",
+      "right": 8,
+      "bottom": 60,
+      "zIndex": 999999999
+    }
+  }
+  
