@@ -1,0 +1,13 @@
+{
+  "querySelector": {
+    "data": "#react-root > div > div > div > main > div > div > div > div > div > section > div > div > div:nth-child(1) > div > div > article > div > div > div:nth-child(3) > div:nth-child(2) > div",
+    "parentLevel": 0
+  },
+  "styleBtnContainer": { "position": "relative" },
+  "styleBtnContainerWrapper": {
+    "position": "absolute",
+    "right": 8,
+    "bottom": 70,
+    "zIndex": 999999999
+  }
+}
