@@ -3,7 +3,7 @@
     "data": "body > div > div > div > div > div > div > div > div > div > div > article > div > div > div > div > div > div > div > div > div > div > div > div",
     "parentLevel": 0
   },
-  "styleBtnContainer": { "position": "relative" },
+  "styleBtnContainer": { "position": "absolute" },
   "styleBtnContainerWrapper": {
     "position": "absolute",
     "right": 8,
