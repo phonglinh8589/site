@@ -1,6 +1,6 @@
 {
   "querySelector": {
-    "data": "body > div:nth-child(3) > div > div > div > div > div > div > div> div > section > main > div > div > div > div > div",
+    "data": "body > div > div > div > div > div > div > div > div > div > div > article > div > div > div > div > div > div > div > div > div > div > div > div",
     "parentLevel": 0
   },
   "styleBtnContainer": { "position": "relative" },
